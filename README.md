@@ -9,4 +9,10 @@ Elaboration d'une loi de commande à base de 2PIDs pour stabiliser notre robot e
 - Batteries Li-Po 18650 
 - LEDs
 - Roues différentielles
-- Fils de liaison 
+- Fils de liaison
+# Conception du Chassis
+La conception du châssis 3D sera faite avec CATIA V5. Après, elle sera imprimée
+en 3D. Les dimensions du châssis sont comme suit :
+- Etage 1,2 et 3 : 13 cm x 6 cm x 0.5 cm (L, l, H)
+- Cylindres de liaison : 0.6cm x 12cm (D, H)
+
