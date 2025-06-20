@@ -2,6 +2,9 @@
 Elaboration d'une loi de commande à base de 2PIDs pour stabiliser notre robot en mouvement et à l'arret deux fonctions principales sont :
 * Stabilité et équilibre du robot {en mouvement et à l'arret }.
 * Suivre une trajectoire donnée d'une manière rectiligne .
+![image](https://github.com/user-attachments/assets/86857626-6307-4ef6-a39d-e406dd31aaa2)
+
+  
 # Composants Electroniques 
 - Arduino UNO
 - Gyroscope MPU6050
